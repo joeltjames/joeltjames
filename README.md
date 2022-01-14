@@ -8,6 +8,6 @@
 
 Hi, I’m J.T. James!
 
-Feel free to reach out to me via email at <a href="mailto:joeltjames@gmail.com">joeltjames@gmail.com</a>
-
 I am passionate about sports data, angular development, typescript, and self hosting.
+
+Feel free to reach out to me via email at <a href="mailto:joeltjames@gmail.com">joeltjames@gmail.com</a>
