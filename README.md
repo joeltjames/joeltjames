@@ -10,4 +10,5 @@ joeltjames/joeltjames is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-👋 Hi, I’m @joeltjames
+Hi, I’m @joeltjames.
+I am a Husband, Father, Software Developer, and Sports Data Enthusiast.
