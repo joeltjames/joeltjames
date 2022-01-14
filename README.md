@@ -5,10 +5,9 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 --->
-<!---
-joeltjames/joeltjames is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 Hi, I’m @joeltjames.
+
 I am a Husband, Father, Software Developer, and Sports Data Enthusiast.
+
+Feel free to reach out to me via email at <a href="mailto:joeltjames@gmail.com">joeltjames@gmail.com</a>
